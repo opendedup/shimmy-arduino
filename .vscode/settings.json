@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.py": "python",
+        "*.js": "javascript",
+        "system_error": "cpp",
+        "array": "cpp",
+        "string": "cpp",
+        "string_view": "cpp"
+    }
+}
